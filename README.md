@@ -27,8 +27,8 @@ I am a passionate **Software Engineer** dedicated to building scalable, high-per
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[Ahmed-200754]&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Ahmed's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Ahmed-200754]&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Ahmed-200754&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Ahmed's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Ahmed-200754&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ I'm always open to collaborating on innovative projects or discussing the latest
 
 * 📧 **Email:** [ahmedatorky54@gmail.com](mailto:ahmedatorky54@gmail.com)
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/ahmed-2007-torky/](https://www.linkedin.com/in/ahmed-2007-torky/)
-* 🐙 **GitHub:** [github.com/[Ahmed-200754]](https://github.com/[Ahmed-200754])
+* 🐙 **GitHub:** [https://github.com/Ahmed-200754](https://github.com/Ahmed-200754)
 
 ---
 

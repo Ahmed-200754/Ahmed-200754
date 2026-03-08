@@ -14,23 +14,18 @@ I am a passionate **Software Engineer** dedicated to building scalable, high-per
 ---
 
 ### 🛠️ My Tech Stack
+## Features
+- Full-stack web applications with CRUD operations
+- Database-driven projects using SQL Server
+- Responsive UI with HTML, CSS, JavaScript, Bootstrap
+- Interactive applications using Unity and C#
+- Portfolio website showcasing projects and GitHub links
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, Java, C++ |
-| **Frontend** | React.js, Next.js, Tailwind CSS, HTML5/CSS3 |
-| **Backend** | Node.js, Express, Django, FastAPI |
-| **Database** | PostgreSQL, MongoDB, Redis, MySQL |
-| **DevOps** | Docker, AWS, CI/CD, Git, Linux |
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-200754&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Ahmed's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-200754&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
-</p>
-
+## Technologies Used
+- **Backend:** C#, .NET, ASP.NET, LINQ, OOP  
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
+- **Database:** SQL Server, Database Design  
+- **Other Tools:** Unity, Git, Visual Studio, VS Code
 ---
 
 ### 📬 Let's Connect!

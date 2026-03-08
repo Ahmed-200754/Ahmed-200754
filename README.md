@@ -5,23 +5,47 @@
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
-## About Me
-Software Engineering student at **Cairo University**, 2nd year (expected graduation 2028).  
-Passionate **Full-Stack Web Developer** with hands-on experience in **C#, .NET, SQL, HTML, CSS, JavaScript, Bootstrap**, and **Unity**. Skilled in building backend systems, database-driven applications, and responsive front-end interfaces.  
+# Hi, I'm Ahmed Torky! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZreXp6Z3ZreHh6Z3ZreHh6Z3ZreHh6Z3ZreHh6Z3ZreHh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/WUl9m9y0L65xV7l45P/giphy.gif" width="30">
 
-## Features & Projects
-- Full-stack web applications with **CRUD operations** and database integration  
-- Interactive Unity applications using **C#**  
-- Personal portfolio website showcasing projects and GitHub links  
-- Database-driven projects demonstrating **SQL Server design and optimization**  
+### 🚀 Software Engineer | Problem Solver | Tech Enthusiast
 
-## Technologies
-**Backend:** C#, .NET, ASP.NET, LINQ, OOP  
-**Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
-**Database:** SQL Server, Database Design  
-**Other Tools:** Unity, Git, Visual Studio, VS Code  
+I am a passionate **Software Engineer** dedicated to building scalable, high-performance applications and solving complex architectural challenges. I thrive on turning coffee into clean, maintainable code.
 
-## Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-github-username/your-repo-name.git
+---
+
+### 🛠️ My Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, TypeScript, Java, C++ |
+| **Frontend** | React.js, Next.js, Tailwind CSS, HTML5/CSS3 |
+| **Backend** | Node.js, Express, Django, FastAPI |
+| **Database** | PostgreSQL, MongoDB, Redis, MySQL |
+| **DevOps** | Docker, AWS, CI/CD, Git, Linux |
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Ahmed's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Let's Connect!
+
+I'm always open to collaborating on innovative projects or discussing the latest in tech. 
+
+* 📧 **Email:** [ahmedatorky54@gmail.com](mailto:ahmedatorky54@gmail.com)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/ahmed-2007-torky/](https://www.linkedin.com/in/ahmed-2007-torky/)
+* 🐙 **GitHub:** [github.com/[Ahmed-200754]](https://github.com/[Ahmed-200754])
+
+---
+
+### ⚡ Fun Fact
+> "The best error message is the one that never shows up."
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>

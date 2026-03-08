@@ -27,8 +27,8 @@ I am a passionate **Software Engineer** dedicated to building scalable, high-per
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Ahmed's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=[Ahmed-200754]&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Ahmed's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Ahmed-200754]&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
 </p>
 
 ---

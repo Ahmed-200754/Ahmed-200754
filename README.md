@@ -4,6 +4,8 @@
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
 # Hi, I'm Ahmed Torky! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZreXp6Z3ZreHh6Z3ZreHh6Z3ZreHh6Z3ZreHh6Z3ZreHh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/WUl9m9y0L65xV7l45P/giphy.gif" width="30">
 
